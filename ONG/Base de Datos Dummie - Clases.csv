@@ -1,0 +1,21 @@
+id,nombre,departamento,fecha_inicio,fecha_fin,tema
+1001,Atención postural,Salud,2023-04-03,2023-05-28,Postura correcta
+1002,Arte,Cultura,2023-04-05,2023-06-28,Pintura y dibujo
+1003,Terapia física,Salud,2023-03-15,2023-05-10,Rehabilitación física
+1004,Educación,Educación,2023-02-15,2023-06-28,Matemáticas básicas
+1005,Nutrición,Salud,2023-03-01,2023-05-30,Alimentación saludable
+1001,Atención postural,Salud,2023-05-01,2023-06-30,Ejercicios de estiramiento
+1002,Arte,Cultura,2023-03-20,2023-05-15,Escultura
+1003,Terapia física,Salud,2023-04-03,2023-06-28,Fisioterapia deportiva
+1004,Educación,Educación,2023-03-08,2023-06-28,Historia del arte
+1005,Nutrición,Salud,2023-03-29,2023-06-28,Alimentación y deporte
+1001,Atención postural,Salud,2023-05-15,2023-07-15,Yoga y relajación
+1002,Arte,Cultura,2023-04-10,2023-06-15,Fotografía
+1003,Terapia física,Salud,2023-04-20,2023-06-30,Masajes
+1004,Educación,Educación,2023-03-01,2023-05-31,Lengua y literatura
+1005,Nutrición,Salud,2023-04-05,2023-06-28,Alimentación y bienestar
+2001,Neuropsicologia,Salud,2023-04-03,2023-05-28,Cognición y emoción
+2002,Desarrollo Familiar,Cultura,2023-04-05,2023-06-28,Estrés y afrontamiento familiar
+2003,Tecnologia de Asistencia,Educacion,2023-03-15,2023-05-10,Tecnología de movilidad
+2004,Deporte Adaptado,Salud,2023-02-15,2023-06-28,Inclusión en los deportes
+2005,Terapia Ocupacional,Salud,2023-03-01,2023-05-30,"Problemas físicos, sensoriales y cognitivos"

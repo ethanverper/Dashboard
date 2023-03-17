@@ -1,0 +1,101 @@
+id,apellido_paterno,nivel,tasa_asistencia,alumno_id,clase_id
+23645,García,Recién ingreso,85%,12345,2001
+78412,Hernández,Avanzado,92%,56789,2002
+50973,Rodríguez,Graduado,78%,23456,2003
+92761,González,Recién ingreso,90%,98765,2004
+34502,Pérez,Graduado,80%,54321,2005
+87129,Díaz,Avanzado,95%,87654,2001
+61358,Reyes,Recién ingreso,87%,34567,2002
+42896,Torres,Graduado,83%,67890,2003
+19587,Gómez,Avanzado,97%,45678,2004
+67234,Jiménez,Recién ingreso,91%,78901,2005
+80345,García,Graduado,88%,34568,2001
+26791,Hernandez,Recién ingreso,86%,23457,2002
+52146,Lopez,Avanzado,93%,45679,2003
+96870,Martinez,Graduado,81%,67891,2004
+37450,Gonzalez,Recién ingreso,90%,98766,2005
+65098,Rodriguez,Avanzado,96%,23458,2001
+14203,Perez,Graduado,79%,34569,2002
+83729,Sanchez,Recién ingreso,92%,56790,2003
+45916,Flores,Avanzado,94%,87655,2004
+71328,Ramirez,Graduado,82%,78902,2005
+84691,Ortiz,Recién ingreso,76%,46367,2001
+52073,Castro,Avanzado,71%,57911,2002
+72914,Chavez,Graduado,75%,38958,2003
+39025,Morales,Recién ingreso,92%,41220,2004
+15074,Cruz,Graduado,94%,33622,2005
+98907,Aguilar,Avanzado,95%,67860,2001
+77825,Reyes,Recién ingreso,74%,70638,2002
+16841,Jimenez,Graduado,77%,66638,2003
+62609,Torres,Avanzado,55%,95208,2004
+14036,Moreno,Recién ingreso,56%,36226,2005
+50416,Gomez,Graduado,80%,53464,2001
+55183,Vargas,Recién ingreso,97%,16339,2002
+62370,Rivera,Avanzado,62%,87231,2003
+93996,Romero,Graduado,69%,58598,2004
+19640,Rios,Recién ingreso,56%,83402,2005
+29761,Flores,Avanzado,97%,88498,2001
+37412,Mendoza,Graduado,65%,40334,2002
+96006,Duran,Recién ingreso,74%,45863,2003
+79344,Juarez,Avanzado,94%,53898,2004
+25868,Sandoval,Graduado,98%,78529,2005
+78239,Hernandez,Recién ingreso,87%,67447,2001
+30604,Rosas,Avanzado,76%,70222,2002
+81424,Carmona,Graduado,83%,49183,2003
+67592,Valdez,Recién ingreso,70%,79099,2004
+97611,Espinoza,Graduado,79%,69061,2005
+63880,Villegas,Avanzado,96%,88140,2001
+88800,Herrera,Recién ingreso,98%,74900,2002
+93527,Carrasco,Graduado,85%,95205,2003
+61022,Fuentes,Avanzado,53%,69279,2004
+54316,Franco,Recién ingreso,88%,11258,2005
+24735,Bautista,Graduado,58%,96935,2001
+96826,Acosta,Recién ingreso,58%,36439,2002
+10051,Robles,Avanzado,69%,30228,2003
+80977,Montes,Graduado,66%,16962,2004
+48885,Ramos,Recién ingreso,76%,28748,2005
+88824,Galvan,Avanzado,71%,82684,2001
+66639,Nava,Graduado,60%,70179,2002
+89075,Zavala,Recién ingreso,68%,74243,2003
+31821,Galindo,Avanzado,61%,83956,2004
+63792,Solis,Graduado,96%,42892,2005
+44555,Esquivel,Recién ingreso,85%,75112,2001
+27223,Velasco,Avanzado,95%,34322,2002
+87595,Barrera,Graduado,83%,78124,2003
+47841,Lugo,Recién ingreso,96%,55315,2004
+98901,Pacheco,Graduado,71%,35690,2005
+27718,Cervantes,Avanzado,61%,84732,2001
+74680,Barajas,Recién ingreso,80%,84012,2002
+12868,Serrano,Graduado,56%,16274,2003
+45214,Villa,Avanzado,89%,32323,2004
+28629,Melendez,Recién ingreso,51%,88834,2005
+58419,Valenzuela,Graduado,88%,61970,2001
+11536,Aguayo,Recién ingreso,67%,58213,2002
+72046,Acevedo,Avanzado,75%,20994,2003
+21068,Cordero,Graduado,60%,32896,2004
+51216,Alvarado,Recién ingreso,98%,12423,2005
+30422,Ochoa,Avanzado,53%,39288,2001
+39136,Contreras,Graduado,96%,36869,2002
+20139,Arroyo,Recién ingreso,84%,54288,2003
+82087,Casillas,Avanzado,67%,17637,2004
+38924,Meza,Graduado,69%,86723,2005
+33889,Zepeda,Recién ingreso,75%,62198,2001
+28002,Fierro,Avanzado,90%,78218,2002
+22649,Godoy,Graduado,91%,49939,2003
+41517,Andrade,Recién ingreso,70%,90998,2004
+12308,Escobedo,Graduado,91%,74688,2005
+58200,Soto,Avanzado,91%,65609,2001
+85822,Villalobos,Recién ingreso,58%,25776,2002
+44752,Arellano,Graduado,84%,23811,2003
+93473,Cortes,Avanzado,75%,64576,2004
+75841,Osorio,Recién ingreso,80%,88350,2005
+30787,Luevano,Graduado,71%,56549,2001
+23991,Bernal,Recién ingreso,88%,86837,2002
+18456,Cisneros,Avanzado,85%,21886,2003
+67991,Ayala,Graduado,69%,65703,2004
+55685,Tovar,Recién ingreso,58%,33388,2005
+49991,Escobar,Avanzado,98%,41085,2001
+60387,Camacho,Graduado,66%,95154,2002
+93462,Luna,Recién ingreso,57%,80035,2003
+80933,Medina,Avanzado,79%,75583,2004
+22432,Sánchez,Graduado,87%,48708,2005
